@@ -1,5 +1,5 @@
-- Hi, I’m @SideDev
-- This is HidePower Client, still in development, please look forward to it and purchase it in the future!
+- Unknown client, developed by three people - Ends at xx-12-21
+- Powerful optimization, advanced vision, and bypasses that are turned away
 
 <!---
 Side-Client-Dev/Side-Client-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
